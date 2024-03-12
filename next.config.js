@@ -1,6 +1,5 @@
 module.exports = {
-    images: {
-      domains: ['https://i.imgur.com'], // Replace with Imgur domain
-    },
-  };
-  
+  images: {
+    domains: ['i.imgur.com'],
+  },
+}

@@ -12,3 +12,10 @@ Catatan:
 Jika terjadi error, Anda dapat mengakses tautan ini sebagai petunjuk solusinya: https://nextjs.org/docs/app/building-your-application/optimizing/images#remote-images
 
 Jawaban : Hasilnya error dikarenakan web yang digunakan down dan tidak terdapat gambarnya.
+
+Soal 2
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 2"
+
+![No 2](src\assets\Prakticum_2.png)

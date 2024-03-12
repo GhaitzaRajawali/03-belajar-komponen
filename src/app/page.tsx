@@ -1,10 +1,14 @@
 import { Gallery } from "@/component/gallery";
+import TodoList from "@/component/todolist";
 
 export default function MyPage() {
   return (
-    <div>
-      <h1>My Page</h1>
-      <Gallery /* pass any necessary props */ />
-    </div>
+    <section>
+      <h1 className="font-semibold text-slate-900 truncate pr-20 text-center">Ilmuwan Yang Luar Biasa</h1>
+      <hr />
+      <Gallery />
+      <hr />
+      <TodoList />
+    </section>
   );
 }

@@ -23,3 +23,11 @@ Jangan lupa push dengan pesan commit: "W03: Jawaban soal 2"
 Jawaban :
 ![No 2](src/assets/Prakticum_2.png)
 Jadi hal yang saya pelajari di praktikum 2 ini adalah cara mengimpor dan mengekspor komponen dan memanggilnya di main page.
+
+Soal 4
+Kode di atas masih terdapat error, silakan diperbaiki.
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 4".
+
+Jawaban :
+![No 4](src/assets/Praktikum_4.png)

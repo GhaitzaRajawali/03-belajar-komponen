@@ -11,7 +11,9 @@ Catatan:
 
 Jika terjadi error, Anda dapat mengakses tautan ini sebagai petunjuk solusinya: https://nextjs.org/docs/app/building-your-application/optimizing/images#remote-images
 
-Jawaban : Hasilnya error dikarenakan web yang digunakan down dan tidak terdapat gambarnya.
+Jawaban : 
+![No 1](src/assets/Praktikum_1.png)
+Jadi hal yang saya pelajari di praktikum 1 ini adalah cara membuat komponen dan memanggilnya ke main page.
 
 Soal 2
 Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?

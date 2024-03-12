@@ -70,3 +70,17 @@ Jawaban :
 ![No 6](src/assets/Praktikum_6.png)
 Yang telah saya pelajari di praktikum ini adalah menarik gambar dari web langsung dan merubah bentuk, ukuran, dan tempat sesuai yang diinginkan. Dan tampilan saat ini berubah dalam bentuknya menjadi lebih panjang.
 
+
+Soal 7
+Jika kode di atas terdapat error, silakan diperbaiki.
+
+Komponen MyGallery ini berisi dua markup yang sama persis. Ekstraklah menjadi komponen MyProfile untuk mengurangi duplikasi. Anda perlu memilih props apa saja yang akan dikirimkan.
+
+Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 7".
+
+Jawaban : 
+Yang saya telah pelajari adalah cara menggunakan component lainnya lagi. Untuk tampilan masih terdapat error dikarenakan file utils masih belum dibuat.
+
+

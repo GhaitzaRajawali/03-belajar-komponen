@@ -18,4 +18,4 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 2"
 
-![No 2](src\assets\Prakticum_2.png)
+![No 2](src/assets/Prakticum_2.png)

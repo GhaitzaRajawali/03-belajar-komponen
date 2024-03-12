@@ -56,3 +56,17 @@ Jawaban :
 ![No 5](src/assets/Praktikum_5.png)
 Tidak terdapat perbedaan dalam tampilan web.
 
+
+Soal 6
+Perbaiki kode tersebut pada bagian atribut src. Kode lainnya dapat Anda sesuaikan dari jawaban soal sebelumnya. Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini?
+
+Jangan lupa push dengan pesan commit: "W03: Jawaban soal 6".
+
+Catatan:
+
+Untuk memeriksa apakah perbaikan Anda berhasil, coba ubah nilai dari imageSize menjadi 'b'. Gambar harus menyesuaikan ukuran setelah diubah.
+
+Jawaban :
+![No 6](src/assets/Praktikum_6.png)
+Yang telah saya pelajari di praktikum ini adalah menarik gambar dari web langsung dan merubah bentuk, ukuran, dan tempat sesuai yang diinginkan. Dan tampilan saat ini berubah dalam bentuknya menjadi lebih panjang.
+

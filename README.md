@@ -20,4 +20,6 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 2"
 
+Jawaban :
 ![No 2](src/assets/Prakticum_2.png)
+Jadi hal yang saya pelajari di praktikum 2 ini adalah cara mengimpor dan mengekspor komponen dan memanggilnya di main page.

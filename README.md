@@ -81,6 +81,9 @@ Capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda 
 Jangan lupa push dengan pesan commit: "W03: Jawaban soal 7".
 
 Jawaban : 
-Yang saya telah pelajari adalah cara menggunakan component lainnya lagi. Untuk tampilan masih terdapat error dikarenakan file utils masih belum dibuat.
-
+Cara menggunakan Utils dengan benar
+![No 7](src/assets/Praktikum_7_Part1.png)
+![No 7](src/assets/Praktikum_7_Part2.png)
+![No 7](src/assets/Praktikum_7_Part3.png)
+![No 7](src/assets/Praktikum_7_Part4.png)
 
